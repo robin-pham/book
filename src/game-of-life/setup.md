@@ -40,7 +40,7 @@ publish our compiled `.wasm` to the `npm` registry.
 
 [Follow these instructions to install `npm`.][npm-install]
 
-If you already have `npm` installed, make sure it is up to date with this
+We require npm 6.1.0 or newer. If you already have `npm` installed, make sure it is up to date with this
 command:
 
 ```
